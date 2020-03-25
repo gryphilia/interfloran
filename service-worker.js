@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/interfloran/precache-manifest.1b922bce08423a102fdbe19ff3170631.js"
+  "/interfloran/precache-manifest.18ed13b817b31b794fc31e93a9071146.js"
 );
 
 self.addEventListener('message', (event) => {
